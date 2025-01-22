@@ -5,7 +5,7 @@ whoAmI
 
 <p align="left"> <a href="https://twitter.com/@shubhambhasker6" target="blank"><img src="https://img.shields.io/twitter/follow/@shubhambhasker6?logo=twitter&style=for-the-badge" alt="@shubhambhasker6" /></a> </p>
 
-- 🔭 I’m currently working on [3d-Portfolio (Humanoid)](https://github.com/0xDracarys/humanoid)
+- 🔭 I’m currently working on my custom based linux kernal with bulit in self learning AI.
 
 - 👨‍💻 All of my projects are available at [https://github.com/0xDracarys?tab=repositories](https://github.com/0xDracarys?tab=repositories)
 
